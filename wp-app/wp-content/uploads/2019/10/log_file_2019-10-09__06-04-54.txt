@@ -1,0 +1,113 @@
+
+---Downloaded files---
+The import files for: Default Demo Content were successfully downloaded!
+Initial max execution time = 600
+Files info:
+Site URL = http://127.0.0.1
+Data file = /var/www/html/wp-content/plugins/theme-freesia-demo-import/files/dummy/excellent/default/excellent.wordpress.xml
+Widget file = /var/www/html/wp-content/plugins/theme-freesia-demo-import/files/dummy/excellent/default/excellent-widgets.wie
+Customizer file = /var/www/html/wp-content/plugins/theme-freesia-demo-import/files/dummy/excellent/default/excellent-export.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Womens dresses
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Womens dresses
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Womens dresses
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Womens dresses
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Womens dresses
+
+
+---Importing widgets---
+Main Sidebar : 
+
+recent-posts-widget-with-thumbnails - Recent Posts - Site does not support widget
+Search - No Title - Imported
+Text - About Us - Imported
+Archives - No Title - Imported
+Categories - No Title - Imported
+Meta - No Title - Imported
+Tag Cloud - Tags - Imported
+
+Top Header Info : 
+
+Text - No Title - Imported
+
+Contact Page Sidebar : 
+
+Text - Contact Information - Imported
+
+Iframe Code For Google Maps : 
+
+Text - Google Maps - Imported
+
+WooCommerce Sidebar : 
+
+woocommerce_product_search - No Title - Site does not support widget
+woocommerce_layered_nav - Filter by - Site does not support widget
+woocommerce_product_categories - Product Categories - Site does not support widget
+woocommerce_widget_cart - Cart - Site does not support widget
+woocommerce_recently_viewed_products - Recently Viewed Products - Site does not support widget
+woocommerce_price_filter - Filter by price - Site does not support widget
+woocommerce_rating_filter - Average Rating - Site does not support widget
+
+Footer Column 1 : 
+
+Text - Excellent - Imported
+
+Footer Column 2 : 
+
+Categories - Categories - Imported
+
+Footer Column 3 : 
+
+recent-posts-widget-with-thumbnails - Recent Posts - Site does not support widget
+
+Footer Column 4 : 
+
+Text - Contact us - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---tf-tfdi/after_import---
+
