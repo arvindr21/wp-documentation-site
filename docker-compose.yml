@@ -6,7 +6,9 @@ services:
     ports:
       - ${IP}:80:80 # change ip if required
     volumes:
+      - ./config/cacert.pem:/etc/ssl/certs/cacert.pem
       - ./config/php.conf.ini:/usr/local/etc/php/conf.d/conf.ini
+      # - ./config/php.conf.ini:/var/www/html/wp-admin/php.ini
       - ./wp-app:/var/www/html # Full wordpress project
       #- ./plugin-name/trunk/:/var/www/html/wp-content/plugins/plugin-name # Plugin development
       #- ./theme-name/trunk/:/var/www/html/wp-content/themes/theme-name # Theme development
